@@ -323,7 +323,7 @@ export default function Contact() {
             </p>
             <div className="flex flex-col sm:flex-row justify-center items-center gap-3 sm:gap-4">
               <a 
-                href="/assets/Mujtaba_Resume.pdf" 
+                href="/Mujtaba_Resume.pdf" 
                 download
                 className="w-full sm:w-auto px-6 sm:px-8 py-3 bg-gray-700/50 hover:bg-gray-600/50 text-white rounded-full border border-gray-600/50 transition-all duration-300 font-medium shadow-lg hover:shadow-gray-500/10"
               >

@@ -28,7 +28,7 @@ export default function Home() {
         {/* Left Side - TiltedCard */}
         <div className="flex flex-col gap-4 items-center order-2 lg:order-1">
           <TiltedCard
-            imageSrc="src\assets\ChatGPT Image Jul 1, 2025, 03_12_37 PM.png"
+            imageSrc="/hero-image.png"
             altText="Mohamed Mujtaba"
             captionText="HIRE ME"
             containerHeight="250px"

@@ -74,7 +74,7 @@ export default function About() {
         {/* Left Column: Profile & Info */}
         <div className="lg:col-span-1 flex flex-col items-center text-center space-y-3 sm:space-y-4 p-3 sm:p-4 bg-gradient-to-br from-gray-800/60 to-gray-900/60 rounded-xl sm:rounded-2xl border border-gray-600/50 backdrop-blur-sm overflow-hidden">
           <img
-            src="src\assets\Mujtaba Photo Pass port .jpg"
+            src="/profile.jpg"
             alt="Mohamed Mujtaba"
             className="w-24 h-24 sm:w-32 sm:h-32 lg:w-36 lg:h-36 rounded-full object-cover border-4 border-gradient-to-r from-indigo-500 to-purple-500 shadow-2xl transform hover:scale-105 transition-all duration-300 hover:shadow-indigo-500/25"
           />
